@@ -1,0 +1,16 @@
+[
+    {
+        "name": "resetFunc",
+        "private": false,
+        "can_evaluate": {}
+    },
+    {
+        "name": "myFunc",
+        "private": true
+    },
+    {
+        "name": "Firebase",
+        "private": false,
+        "disable_arg_logs": true
+    }
+]
